@@ -22,4 +22,8 @@ Loop deskNumbers.Length
 	;Enter Language Preference "E"
 	;Click Save
 	;Test
+<<<<<<< HEAD
 	;Test 3.0
+=======
+	;Test 2 
+>>>>>>> e3b410c274af6ef60230cfa257f77afdd79baf46
